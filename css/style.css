@@ -72,3 +72,7 @@ main {
   grid-area: btm-right;
   /* background-color: #222; */
 }
+
+#btm-right:hover {
+  cursor: pointer;
+}
